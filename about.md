@@ -16,6 +16,6 @@ You can find the source code for Jekyll at
 
 
 ---
-![pic](https://yt3.ggpht.com/-Iq9pg2-QGM0/AAAAAAAAAAI/AAAAAAAAAAA/dPSy1YqpIsU/s900-c-k-no/photo.jpg)
+![pic](https://s-media-cache-ak0.pinimg.com/136x136/81/ff/08/81ff08c482759df559919790bed95bf9.jpg)
 NHN엔터테인먼트 신입사원 배승오
 
